@@ -7,7 +7,7 @@ public class MazeGraphicsPanel extends JPanel{
     final int meshSpace = 40;
     final int screenH = 720;
     final int screenW = 1280;
-
+//
     MazeGraphicsPanel(){
         setBackground(Color.BLACK);
     }
